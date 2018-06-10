@@ -1,0 +1,8 @@
+[
+  "test_validator.py::ValidatorTest::test_correct_password",
+  "test_validator.py::ValidatorTest::test_error_equal_passwords",
+  "test_validator.py::ValidatorTest::test_error_less_than_eight_symbols",
+  "test_validator.py::ValidatorTest::test_error_missing_capital_letter",
+  "test_validator.py::ValidatorTest::test_error_missing_number",
+  "test_validator.py::ValidatorTest::test_error_missing_special_symbol"
+]
